@@ -1,5 +1,5 @@
 # wasai
-(哇塞, just a name, don't care It's just a name)
+(哇塞, just a name)
 Machine Learning Notes
 
 ## Why?
